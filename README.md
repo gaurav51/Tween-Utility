@@ -38,8 +38,18 @@ Not sure where to start? The utility can instantly generate complete example sce
 
 ## 🛠️ Installation
 
-1.  **Requirement**: First, ensure you have [DOTween (Free or Pro)](https://assetstore.unity.com/packages/tools/visual-scripting/dotween-hotween-v2-27676) installed and setup in your Unity project.
-2.  Import the `DoTween_Utility` folder into your `<Project>/Assets/` directory.
+**Requirement**: Ensure you have [DOTween (Free or Pro)](https://assetstore.unity.com/packages/tools/visual-scripting/dotween-hotween-v2-27676) installed and setup in your Unity project first.
+
+### Option A: Unity Package Manager (Recommended)
+You can install this utility directly via the Unity Package Manager (UPM) using the GitHub link:
+1. Open the Unity Package Manager (`Window > Package Manager`).
+2. Click the `+` button in the top-left corner and select **Add package from git URL...**
+3. Paste the following URL and click **Add**:
+   `https://github.com/gaurav51/Tween-Utility.git?path=/Assets/DoTween_Utility`
+
+### Option B: Manual Installation
+1. Clone or download this repository.
+2. Copy the `Assets/DoTween_Utility` folder directly into your Unity project's `Assets/` directory.
 
 ---
 
