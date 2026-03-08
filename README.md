@@ -3,8 +3,8 @@
 A powerful, visual, and highly-extensively customizable wrapper for Demigiant's [DOTween](http://dotween.demigiant.com/) library. This utility allows developers and designers to build complex, multi-step animation sequences directly inside the Unity Inspector—without writing a single line of code!
 
 ## 📹 Demo
-<video src="Media/demo.mov" controls="controls" width="49%"></video>
-<video src="Media/demo2.mov" controls="controls" width="49%"></video>
+<video src="https://github.com/gaurav51/Tween-Utility/raw/main/Media/demo.mov" controls="controls" width="49%"></video>
+<video src="https://github.com/gaurav51/Tween-Utility/raw/main/Media/demo2.mov" controls="controls" width="49%"></video>
 
 
 ## 🌟 Key Features
