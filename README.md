@@ -2,6 +2,11 @@
 
 A powerful, visual, and highly-extensively customizable wrapper for Demigiant's [DOTween](http://dotween.demigiant.com/) library. This utility allows developers and designers to build complex, multi-step animation sequences directly inside the Unity Inspector—without writing a single line of code!
 
+## 📹 Demo
+<video src="Media/demo.mov" controls="controls" width="49%"></video>
+<video src="Media/demo2.mov" controls="controls" width="49%"></video>
+
+
 ## 🌟 Key Features
 
 *   **Visual Sequence Builder**: Create, reorder, and chain animation steps directly in the Unity Inspector.
